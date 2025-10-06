@@ -61,4 +61,4 @@ Tweaks & tips
 - Harpoon’s Telescope integration lives in [lua/plugins/harpoon.lua](lua/plugins/harpoon.lua): [`toggle_telescope`](lua/plugins/harpoon.lua).
 - To add more plugins, drop files into `lua/plugins/` (each file should return a plugin spec) and they will be picked up by the lazy setup (see [`config.lazy-config`](lua/config/lazy-config.lua)).
 
-Have fun, hack safely, and may your edits always be fast and reversible.
+**Have fun, hack safely, and may your edits always be fast and reversible.**
